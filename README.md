@@ -24,6 +24,8 @@ git clone https://github.com/tinkywinkygluestick799-dotcom/quantum-error-mitigat
 cd quantum-error-mitigation
 pip install qiskit mitiq matplotlib
 python zne_mitigation.py
+
+
 📬 Contact
 Alishba Zafar
 📧 alishba@example.com
